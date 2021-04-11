@@ -60,27 +60,27 @@ Melio gives small businesses a way to digitally manage their business-to-busines
 
 **Domain of the financial industry?**
 
-B2B payments - $160B market opportunity 
+B2B payments, which is a $160B market opportunity 
 
 **Trends & innovations** 
 
-   * Real time payments 
-   * Usage of API's to improve comms across platform
-   * ISO20022 (standard for financial information transferred between financial institutions)
-   * Cross-border payments: faster & better FX rate 
-   * Blockchain to track payments (slow adoption)
-   * AI for payment fraud detection
-   * INCORPORATION OF AI AND MACHINE LEARNING, virtual assistants
+   * **Digital payments** - *a slower adoption compared to consumer payments due to of the high cost switching from a physical to a digital payment form* 
+   * **Automated payments**  - *to avoid cash flow problems*
+   * **Usage of API's** - *to improve and speed up communications across platform*
+   * **Adoption of ISO20022** - *standard for financial information transferred between financial institutions*
+   * **Cross-border payments** - *faster & better FX rate (example: xtrm.com, veem.com)* 
+   * **Blockchain** - *to track payments (slow adoption)*
+   * **AI** *to identify fraud detection*
+   * **Machine learning** - *avoiding human error, virtual assistants,...*
 
-   https://www.penser.co.uk/article/top-5-emerging-b2b-payment-trends/
 
 **Competition** 
 
-* Bill.com
-* Tipalti - designed for larger enterprises. “They are too overwhelming for SMBs,” he said. “Even their names say it all: Accounts Payable Automation Solutions.
+* [Bill](bill.com)
+* [Tipalti](Tipalti.com)
 
-* XTRM
-* Veem (cross border payments)
+* [XTRM](XTRM.com)
+* [Veem](veem.com)
 
 ---
 
@@ -96,8 +96,15 @@ B2B payments - $160B market opportunity
 
 **Core KPI's & performance**
 
+* Client acquisition 
+* Client retention 
+
+*Disclaimer: no details publicly available*
 
 **Performance vs. competition**
+
+* Bill.com - public company, 800 people stafff, $13B market cap. Melio is a challenger vs. Bill.com 
+* Tipalti.com - private company, valued at $2B in October 2020, 480 employees. Melio is a challenger vs. Tipalti. 
 
 ---
 
@@ -105,16 +112,17 @@ B2B payments - $160B market opportunity
 
 **Product recommenations** 
 
-Cashflow management 
-Google maps reviews - poor 
-Trustpilot ranking in real time from website 
-Single income stream, 2.9% bank fee 
+* Cashflow management - an interesting feature to be added so businesses can forecast when they would be cashflow negative.
 
-* Why do you think that offering this product or service would benefit the company?
+* Revenue streams - currently the business only has one income stream which is the 2.9% fee when paying by credit card. This could be risky if a competitor is able to undercut them by price. 
 
-* What technologies would this additional product or service utilize?
+* Smart contracts (via Blockchain) - a larger company vision could be to facilitate B2B business transactions. Being able to close contracts digitally and have them stored via Blockchain could be a good product extension as well as revenue extension. 
 
-* Why are these technologies appropriate for your solution?
+**Reviews**
+
+* Google maps - poor rating (2.6) 
+* Trustpilot reviews on homepage - update them to real time
+* G2crowd - increaser number of reviews (currently 1)
 
 ---
 
@@ -130,3 +138,6 @@ Single income stream, 2.9% bank fee
 * [Spend Matters - Segmenting the 1 trillion b2b payments market](https://spendmatters.com/2020/03/31/segmenting-the-1-trillion-b2b-payments-market-our-graphical-take-version-1-0/)
 
 * [Spend Matters - Corporate b2b payment trends then and now](https://spendmatters.com/2020/07/28/corporate-b2b-payment-trends-then-and-now/)
+
+* [Penser - Top trends B2B payments  ](https://www.penser.co.uk/article/top-5-emerging-b2b-payment-trends/)  
+   
